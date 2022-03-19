@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+<h5>My Recent Articles</h5>
+
+<!-- BLOG-POST-LIST:START -->
+- [Database Indexing](https://www.linkedin.com/pulse/database-indexing-samar-qusai/?trackingId=iUGuaHD4R%2Fm17B0xIn8l7w%3D%3D)
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **SamarQusai/samarqusai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
